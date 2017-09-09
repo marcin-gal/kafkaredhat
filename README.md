@@ -1,6 +1,6 @@
 # Install a Kafka cluster on RedHat Virtual Machines using a Virtual Machine Scale Set
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmarcin-gal%2Fkafkaredhat%2Fmaster%2Fkafka-on-redhat-vmss%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/marcin-gal/kafkaredhat/master/azuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 
 </a>
