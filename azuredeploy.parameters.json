@@ -15,19 +15,19 @@
       "value": "azure@123456"
     },
     "virtualNetworkName": {
-      "value": "kafka-vnet"
+      "value": "kafkavnet"
     },
     "addressPrefix": {
       "value": "10.0.0.0/16"
     },
     "subnetName": {
-      "value": "default"
+      "value": "subnet"
     },
     "subnetPrefix": {
       "value": "10.0.0.0/24"
     },
     "kafkaVersion": {
-      "value": "0.9.0.1"
+      "value": "0.11.0.0"
     },
     "kafkaClusterName": {
       "value": "kafka-arm-cluster"
@@ -42,7 +42,7 @@
       "value": 3
     },
     "numberOfKafkaInstances": {
-      "value": 5
+      "value": 3
     },
     "zookeeperVmSize": {
       "value": "Standard_D1_V2"
