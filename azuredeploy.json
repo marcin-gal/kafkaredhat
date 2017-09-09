@@ -181,7 +181,7 @@
     "kafkaSubnetRef": "[concat(variables('vnetID'),'/subnets/',parameters('kafkaSubnetName'))]",
     "zookeeperComputerNamePrefix": "zookprnode",
     "kafkaComputerNamePrefix": "kafkanode",
-    "scriptUrl": "https://raw.githubusercontent.com/SaschaDittmann/azure-resource-manager-templates/master/kafka-on-redhat-vmss/",
+    "scriptUrl": "https://github.com/marcin-gal/kafkaredhat/",
     "templateUrl": "[variables('scriptUrl')]",
     "jumpboxTemplateName": "jumpbox-resources-",
     "uniqueStringArray": [
