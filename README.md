@@ -1,10 +1,12 @@
 # Install a Kafka cluster on RedHat Virtual Machines using a Virtual Machine Scale Set
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSaschaDittmann%2Fazure-resource-manager-templates%2Fmaster%2Fkafka-on-redhat-vmss%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmarcin-gal%2Fkafkaredhat%2Fmaster%2Fkafka-on-redhat-vmss%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
+
 </a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSaschaDittmann%2Fazure-resource-manager-templates%2Fmaster%2Fkafka-on-redhat-vmss%2Fazuredeploy.json" target="_blank">
-    <img src="http://armviz.io/visualizebutton.png"/>
+
+<a href="https://azuredeploy.net/?repository=https://github.com/marcin-gal/kafkaredhat" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
 Apache Kafka is publish-subscribe messaging rethought as a distributed commit log.
